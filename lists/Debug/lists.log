@@ -1,0 +1,5 @@
+﻿  lists.cpp
+C:\Users\denis\source\repos\lists\lists.cpp(49,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\denis\source\repos\lists\lists.cpp(62,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\denis\source\repos\lists\lists.cpp(92,27): warning C4018: <: несоответствие типов со знаком и без знака
+  lists.vcxproj -> C:\Users\denis\source\repos\lists\Debug\lists.exe
